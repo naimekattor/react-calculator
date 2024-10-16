@@ -1,0 +1,8 @@
+.display input{
+  width: 100%;
+  font-size: 35px;
+  height: 150px;
+  border: none;
+  font-weight: bold;
+  text-align: right;
+}
